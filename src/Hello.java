@@ -8,6 +8,7 @@ public class Hello {
 		// changes by old branch
 		System.out.println("old branch commit");
 		System.out.println("my new old chnaged");
+		System.out.println("next change");
 	}
 
 }
