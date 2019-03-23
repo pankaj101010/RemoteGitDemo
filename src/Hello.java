@@ -9,6 +9,10 @@ public class Hello {
 		System.out.println("old branch commit");
 		System.out.println("my new old chnaged");
 		System.out.println("my next old changed");
+		//changed by feature 2 branch
+		System.out.println("feature 2 branch changes");
+		System.out.println("i am learning conflicts");
+		
 	}
 
 }
